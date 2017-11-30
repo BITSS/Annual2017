@@ -30,4 +30,4 @@ figure, where on earth you saved it, or whether the paper has the updated versio
  You can test this by typing `which pandoc` into the command line. If you don't get the path to your installed version, you can find it [here](https://pandoc.org/installing.html).
 
 #### ShareLaTeX
-ShareLaTeX allows you to collaboratively edit LaTeX documents. (No more choosing Word because of Tracked Changes). Create a [https://www.sharelatex.com/](user account).
+ShareLaTeX allows you to collaboratively edit LaTeX documents. (No more choosing Word because of Tracked Changes). Create a [user account](https://www.sharelatex.com/).
