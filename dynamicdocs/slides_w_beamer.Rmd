@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Documents For Your Research Workflow"
-author: "| Fernando Hoces de la Guardia\n| BITSS   \n| -\n| Slides at <https://goo.gl/ZFQvba>\n"
+author: "| Fernando Hoces de la Guardia\n| BITSS   \n| -\n| Slides at <https://goo.gl/cf3w1Y>\n"
 date: "BITSS Annual Meeting, December 2017"
 output:
   beamer_presentation:
