@@ -128,7 +128,7 @@ Actually the math says otherwise:
 p(n= `r n.pers`) &= `r  round(1 - factorial(n.pers) * choose(365,n.pers)/ 365^n.pers, 3)`  \nonumber
 \end{align}
 
-## Code for the math (<https://goo.gl/ZFQvba>)
+## Code for the math (<https://goo.gl/cf3w1Y>)
 
 Don't look at this: just copy and paste into your report
 ```{r math, eval=FALSE}
@@ -152,7 +152,7 @@ p(n= `r n.pers`) &= `r
  3 - Compute the average number of times a room has `r n.pers` unique birthdays, across 10,000 simulations, and report the complement.    
 
 
-## Code for the simulation (<https://goo.gl/ZFQvba>)  
+## Code for the simulation (<https://goo.gl/cf3w1Y>)  
 
 ```{r birthday prob, eval=TRUE, echo=TRUE}
 birthday.prob = function(n.pers, n.sims) {
